@@ -20,3 +20,13 @@ The project documentation can be viewed directly through the GitHub repository.
 - Google Docs
 - GitHub
 - Free cybersecurity resources
+
+
+
+
+
+## Rollback Evidence
+
+No application deployment was performed because this project is documentation-based.
+
+The project files are maintained using GitHub version history. Previous versions can be reviewed through the repository commit history, and changes can be reverted if required.
